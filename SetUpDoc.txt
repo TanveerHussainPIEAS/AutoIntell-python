@@ -1,0 +1,8 @@
+
+*********Steps**************
+
+1. Install Python 3 Link: https://www.python.org/downloads/
+2. Open CMD and run --------> pip install PyQt5 opencv-python
+3. Run ---->  pip install opencv-python-headless
+4. Download Yolo3 trained model and place that file in "yolo" folder, Name of file should be "yolov3.weights" , where .weights file extention  Download Link: https://pjreddie.com/media/files/yolov3.weights
+5. Double Click on RunApp
